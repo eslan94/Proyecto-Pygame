@@ -1,5 +1,5 @@
 fondo='fondo.jpeg'
-personaje='barco.png'
+personaje='barco2.png'
 import pygame
 from pygame.locals import*
 from sys import exit
