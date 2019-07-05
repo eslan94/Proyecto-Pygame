@@ -7,7 +7,7 @@ from sys import exit
 pygame.init()
 
 screen=pygame.display.set_mode((640, 480), 0, 32)
-pygame.display.set_caption("Bienvenido a mi juego")
+pygame.display.set_caption("Bienvenido")
 background=pygame.image.load(fondo).convert()
 mouse_cursor=pygame.image.load(personaje).convert()
 
